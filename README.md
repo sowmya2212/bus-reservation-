@@ -1,0 +1,1 @@
+bus-reservation-This system is basically designed reservation of bus. The whole system is designed by C programming language. It develops the general idea of how details of passanger  are  visible in bus ticket like their name, destination, contact number and so many other details.
